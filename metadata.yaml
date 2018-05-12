@@ -1,0 +1,26 @@
+_repo: The-Early-Introduction-of-Bogus-Freemasonry-in-the-United-States-of-America-and-Texas-Among-C__40234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, C. L. (Charles L.)
+    alias: Mitchell, Charles L.
+    gutenberg_agent_id: '40506'
+    url: http://www.gutenberg.org/2009/agents/40506
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'African American freemasonry'
+title: The Early Introduction of Bogus Freemasonry in the United States of America
+  and Texas Among Colored Masons
+url: http://www.gutenberg.org/ebooks/40234
